@@ -2,6 +2,9 @@
 
 Application Python permettant de construire interactivement une **triangulation de Delaunay**, de générer le **diagramme de Voronoi** associé et d'effectuer quelques opérations d'analyse spatiale.
 
+<img width="532" height="513" alt="image" src="https://github.com/user-attachments/assets/77260d29-ef4d-4b10-ab12-f676f2197548" />
+
+
 **Cours :** GMT-7035 — Structures de données géométriques et algorithmiques en SIG  
 **Université Laval — Département des sciences géomatiques**  
 **Réalisé par :** Corinne Dumais  
@@ -56,16 +59,22 @@ L'application comporte trois menus principaux.
 - **Réinitialiser** : recommence une nouvelle triangulation.
 - **Exit** : ferme l'application.
 
+<img width="338" height="96" alt="image" src="https://github.com/user-attachments/assets/cdc6258c-9484-42f7-8a3d-3c3e561e7dd8" />
+
 ### Triangulation
 
 - **Triangulation Delaunay → Commencer** : permet d'insérer des points.
 - **Arrêter** : termine l'insertion.
 - **Diagramme Voronoi** : affiche le diagramme de Voronoi associé.
 
+<img width="501" height="96" alt="image" src="https://github.com/user-attachments/assets/128e70b8-24fc-4c05-9ac1-51440d83861d" />
+
 ### Analyse spatiale
 
 - **Voisin le plus proche** : permet de cliquer sur un point quelconque et d'identifier le sommet le plus proche.
 - **Voisins immédiats** : permet de sélectionner un sommet par son numéro et d'afficher ses voisins dans le maillage.
+
+<img width="422" height="97" alt="image" src="https://github.com/user-attachments/assets/954ed99a-68d5-4fc2-abd2-f8c311dab2f5" />
 
 ## Installation
 
